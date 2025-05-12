@@ -30,5 +30,5 @@ This repository contains simulation code for the manuscript:
 
 If you use this code, please cite:
 
-> Zhao K, et al. (2025). *A novel high-dimensional model for identifying regional DNA methylation QTLs.* [Manuscript in review].
+> Zhao K, et al. (2025). *A novel high-dimensional model for identifying regional DNA methylation QTLs.* [Manuscript under review].
 
