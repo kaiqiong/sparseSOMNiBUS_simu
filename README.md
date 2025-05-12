@@ -8,7 +8,7 @@ This repository contains simulation code for the manuscript:
 - **`ToLoadFast/`** — Contains the main function `sparseSmoothFitCV()` and its supporting scripts:
   - `sparseSmoothFitCV.R` — Wrapper function for model fitting with CV
   - `sparseSmoothGrid.R` — Penalty parameter grid setup
-  - `sparseSmoothPred.R` — Prediction and post-fit functions
+  - `sparseSmoothPred.R` — Computes prediction error on a validation set given fitted varying coefficients, used during CV model selection
   - `fitProxGradCpp.cpp` — C++ implementation of the proximal gradient descent algorithm
   - `sparseOmegaCr.cpp` — Computes structured penalty matrices (`$\Omega^{(1)}$` and `$\Omega^{(2)}$`) used for sparsity-smoothness regularization
   - `utils.R` — Helper utilities
