@@ -1,6 +1,6 @@
 # sparseSOMNiBUS_simu
 
-This repository contains the simulation code for the manuscript:  
+This repository contains the simulation code for the paper:  
 **“A novel high-dimensional model for identifying regional DNA methylation QTLs.”**
 
 ## 📁 Folder Structure
